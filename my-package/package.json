@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/devopshint/npm_project.git"
+        "url": "https://github.com/Faresapn/tea-first-project.git"
     },
     "keywords": [
         "npm",
@@ -20,13 +20,13 @@
         "registry"
     ],
     "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
+        "name": "Faresapn",
+        "email": "faresaprasetyon@gmail.com",
+        "url": "https://faresaprasetyon.com"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/devopshint/npm_project/issues"
+        "url": "https://github.com/Faresapn/tea-first-project/issues"
     },
-    "homepage": "https://github.com/devopshint/npm_project#readme"
+    "homepage": "https://github.com/Faresapn/tea-first-project#readme"
 }
