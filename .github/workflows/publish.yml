@@ -1,7 +1,5 @@
 name: "publish npm"
-
 on: push
-
 jobs:
     publish:
         runs-on: ubuntu-latest
